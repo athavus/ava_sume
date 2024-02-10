@@ -1,0 +1,8 @@
+- 
+- Tela de Login | Miguel 
+- Painel do Usuário | Jessé
+- Interface dos Cursos | Jessé
+- Conexão dos Uploads Via Conta Professor | Miguel 
+- Painel Para Conta Professor | Jessé
+? Página de Pagamento Dos Cursos
+- Página dos Materias | Miguel
