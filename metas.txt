@@ -1,4 +1,4 @@
-- 
+- Tela de Apresentação | Miguel
 - Tela de Login | Miguel 
 - Painel do Usuário | Jessé
 - Interface dos Cursos | Jessé
