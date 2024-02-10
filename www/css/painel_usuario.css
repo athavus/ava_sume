@@ -1,0 +1,108 @@
+.Div_myaccount {
+    width: 100%;
+    height: 38vh; 
+    position: relative;
+    background: linear-gradient(0deg, #D7F8F9 0%, #D7F8F9 100%);
+    background-image: url(https://via.placeholder.com/1583x321);
+    background-size: cover; 
+    background-position: center; 
+}
+
+@media screen and (max-width: 768px) {
+    .Div_myaccount {
+        height: 30vh; 
+    }
+}
+
+
+
+
+.subDiv_myaccount {
+    width: 80%;
+    max-width: 1290px; 
+    height: 15vw; 
+    left: 50%;
+    transform: translateX(-50%);
+    top: 10vh;
+    position: absolute;
+}
+
+@media screen and (max-width: 768px) {
+    .subDiv_myaccount {
+        width: 90%; 
+        height: 10vw; 
+        top: 5vh; 
+    }
+}
+
+
+
+.header_myaccount {
+    width: 306.51px;
+    height: 66px;
+    left: 20px;
+    top: -6px;
+    position: absolute;
+    color: #1C0051;
+    font-size: 55px;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: 55px;
+    word-wrap: break-word;
+}
+
+.button_start {
+    width: 39.12px;
+    height: 18px;
+    left: 20px;
+    top: 70px;
+    position: absolute;
+    color: #2727FF;
+    font-size: 16px;
+    font-family: ;
+    font-weight: 500;
+    line-height: 29.71px;
+    word-wrap: break-word;
+}
+
+.separator {
+    width: 7.89px;
+    height: 18px;
+    left: 63.60px;
+    top: 70px;
+    position: absolute;
+    color: rgba(28, 0, 81, 0.70);
+    font-size: 16px;
+    font-family: ;
+    font-weight: 500;
+    line-height: 29.71px;
+    word-wrap: break-word;
+}
+
+.myaccount_tittle {
+    width: 88.56px;
+    height: 18px;
+    left: 75.92px;
+    top: 70px;
+    position: absolute;
+    color: rgba(28, 0, 81, 0.70);
+    font-size: 16px;
+    font-family: ;
+    font-weight: 500;
+    line-height: 29.71px;
+    word-wrap: break-word;
+}
+
+.text_myaccount {
+    width: 908.15px;
+    height: 18px;
+    left: 20px;
+    top: 129.41px;
+    position: absolute;
+    color: #2727FF;
+    font-size: 16px;
+    font-family: ;
+    font-weight: 500;
+    line-height: 29.71px;
+    word-wrap: break-word;
+}
