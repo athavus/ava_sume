@@ -8241,6 +8241,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .input-counter input[type=number] {
   -moz-appearance: textfield;
+  appearance: textfield;
 }
 
 .input-counter__counter {
