@@ -6402,9 +6402,68 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 573px) {
   .mainSlider.-type-1 .swiper-next {
     display: none !important;
+  }
+
+  .swiper-slide {
+    width: 100% !important;
+  }
+
+  .left-arrow {
+    display: none;
+  }
+
+  .right-arrow {
+    display: none;
+  }
+
+  .slide-2 {
+    display: none;
+  }
+  
+  .slide-3 {
+    display: none;
+  }
+  
+  .slide-4 {
+    display: none;
+  }
+  
+  .slide-5 {
+    display: block !important;
+    margin-top: 10%;
+  }
+}
+
+@media (max-width: 500px) {
+  .slide-5 {
+    margin-top: 15% !important; 
+  }
+}
+
+@media (max-width: 386px) {
+  .slide-5 {
+    margin-top: 25% !important; 
+  }
+}
+
+@media (max-width: 386px) {
+  .slide-5 {
+    margin-top: 35% !important; 
+  }
+}
+
+@media (max-width: 300px) {
+  .slide-5 {
+    margin-top: 55% !important; 
+  }
+}
+
+@media (max-width: 262px) {
+  .slide-5 {
+    margin-top: 75% !important; 
   }
 }
 
